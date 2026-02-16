@@ -1,0 +1,46 @@
+# Core Deep Learning
+torch
+transformers
+accelerate
+safetensors
+
+# Data Processing & Scientific Computing
+pandas
+numpy
+h5py
+scipy
+scikit-learn
+
+# Machine Learning Models
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Hyperparameter Tuning
+hyperopt
+
+# Dimensionality Reduction & Visualization
+umap-learn
+matplotlib
+seaborn
+
+# API & LLM
+openai
+datasets
+huggingface-hub
+
+# Utilities & Helpers
+tqdm
+psutil
+joblib
+python-dotenv
+pyyaml
+requests
+
+# Specialized Dependencies
+git+https://github.com/j4y-EQ/TransformerLens-Masking-Fixed.git
+fancy-einsum
+jaxtyping
+einops
+wandb
