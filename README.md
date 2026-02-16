@@ -21,12 +21,6 @@ Two pipelines for analysing and reducing hallucinations in Large Language Models
 ├─ 📄 THEORY.md ......................  Understand MITI
 └─ 📄 API_REFERENCE.md ...............  Technical specs
 ```
-
-**Golden Rule:** 
-- 🟢 **Quick Start READMEs** = "How to run it" (first time)
-- 🔵 **ADVANCED docs** = "How to customize it" (after first run)
-- 🔴 **TROUBLESHOOTING** = "How to fix it" (when stuck)
-
 ---
 
 ## 🚀 START HERE: Installation
